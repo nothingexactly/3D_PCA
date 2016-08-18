@@ -8,6 +8,12 @@ If our data is 3D data- for example spatial data -then we can explore a PCA visu
 
 One way of 'flattening' data is simply to ignore or discard one dimension of the data. PCA, however, tells us a way to orientate our data such that we can discard a dimension of the data without losing too much information. The best way to understand this idea is to run this program yourself.
 
+https://vimeo.com/156145588
+
+![Ellipsoid](ellipsoid.png)
+
+![Dimensionality Reduction](dim_reduced.png)
+
 ## Motivation
 
 * To explore visual communication of technical ideas in maths and data science
