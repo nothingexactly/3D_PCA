@@ -10,13 +10,18 @@ One way of 'flattening' data is simply to ignore or discard one dimension of the
 
 https://vimeo.com/156145588
 
-![ellipsoid.png](ellipsoid.png "Bounding Ellipsoid"){width=100px height=100px}
-
 <br /><br />
-<img src="./ellipsoid.png" alt="ellipsoid" width="667px"/>
+<a href="https://vimeo.com/156145588">
+    <img src="./ellipsoid.png" alt="ellipsoid" width="500px"/>
+</a>
+
 <br><br>
 
-![Dimensionality Reduction](dim_reduced.png)
+<a href="https://vimeo.com/156145588">
+    <img src="./dim_reduced.png" alt="dimensionality_reduction" width="500px"/>
+</a>
+
+<br><br>
 
 ## Motivation
 
