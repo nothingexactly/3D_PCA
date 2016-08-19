@@ -8,14 +8,17 @@ If our data is 3D data- for example spatial data -then we can explore a PCA visu
 
 One way of 'flattening' data is simply to ignore or discard one dimension of the data. PCA, however, tells us a way to orientate our data such that we can discard a dimension of the data without losing too much information. The best way to understand this idea is to run this program yourself.
 
+### Screen Recording
+
 https://vimeo.com/156145588
 
-<br /><br />
+### Bounding Ellipsoid Construction
+
 <a href="https://vimeo.com/156145588">
     <img src="./ellipsoid.png" alt="ellipsoid" width="500px"/>
 </a>
 
-<br><br>
+### Dimensionality Reduction
 
 <a href="https://vimeo.com/156145588">
     <img src="./dim_reduced.png" alt="dimensionality_reduction" width="500px"/>
@@ -31,15 +34,29 @@ https://vimeo.com/156145588
 
 ## Installation
 
-Download and install Processing from http://www.processing.org.
+* Download and install Processing from http://www.processing.org.
+* Ensure all files are contained within a directory called **Principal_Component_Analysis**
 
-## Tests
+## Related Work
 
-Describe and show how to run the tests with code examples.
+* Visualisation of the underlying algorithm for PCA:
+
+https://github.com/cbrookhouse8/Jacobi_Rotations_Visualised
+
+## Futher development
+
+* Implement vector2, vector3, vector4 classes rather that always using the matrix class.
+* Explore recursive matrix multiplication
+* Refactor Quaternion and Matrix classes as classes within a Java library that is imported into Processing.
+* Rename 'Project' button. Or at least specify what kind of 'projection' this is
+* Improve camera mouse dragging
+* Create a dedicated class for the Camera, with associated orientation properties etc
+* Create a small set of parsable text instructions that can coordinate the animation and transitions
+* Add text to indicate exactly what is happening in each stage of PCA
 
 ## References
 
-Eric Lengyel, Mathematics for 3D Game Programming and Computer Graphics
+Eric Lengyel, *Mathematics for 3D Game Programming and Computer Graphics*
 
-Mark Richardson, Principal Component Analysis
+Mark Richardson, *Principal Component Analysis*
 
