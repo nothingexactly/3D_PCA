@@ -12,6 +12,10 @@ https://vimeo.com/156145588
 
 ![ellipsoid.png](ellipsoid.png "Bounding Ellipsoid"){width=100px height=100px}
 
+<br /><br />
+<img src="./ellipsoid.png" alt="ellipsoid" width="667px"/>
+<br><br>
+
 ![Dimensionality Reduction](dim_reduced.png)
 
 ## Motivation
