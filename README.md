@@ -45,7 +45,7 @@ https://github.com/cbrookhouse8/Jacobi_Rotations_Visualised
 
 ## Futher development
 
-* Implement vector2, vector3, vector4 classes rather that always using the matrix class.
+* Implement vector2, vector3, vector4 classes rather than always using the matrix class.
 * Explore recursive matrix multiplication
 * Refactor Quaternion and Matrix classes as classes within a Java library that is imported into Processing.
 * Rename 'Project' button. Or at least specify what kind of 'projection' this is
